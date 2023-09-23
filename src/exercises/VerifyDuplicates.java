@@ -1,8 +1,9 @@
+package exercises;
 
 import java.util.HashSet;
 import java.util.Set;
 
-public class hashmaps {
+public class VerifyDuplicates {
     public static void main(String[] args) {
         // 1. initialize the hash set
         Set<Integer> hashSet = new HashSet<>();     
